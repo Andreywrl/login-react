@@ -1,4 +1,4 @@
-# Login Challenge 🔑
+# Simple Login 🔑
 
 
 ## 🚀 Techniques
